@@ -118,6 +118,12 @@ sale-workflow:
 server-auth:
     src: https://github.com/OCA/server-auth 11.0
 
+server-env:
+    src: https://github.com/OCA/server-env 11.0
+
+server-ux:
+    src: https://github.com/OCA/server-ux 11.0
+
 server-tools:
     src: https://github.com/OCA/server-tools 11.0
 
