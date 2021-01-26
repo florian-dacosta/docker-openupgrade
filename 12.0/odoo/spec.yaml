@@ -21,7 +21,10 @@ odoo-mooncard-connector:
         - ak 12-mig-script-ak
 
 account-financial-tools:
-    src: https://github.com/OCA/account-financial-tools 12.0
+    src: https://github.com/oca/account-financial-tools 12.0
+
+currency:
+    src: https://github.com/OCA/currency 12.0
 
 account-fiscal-rule:
     src: https://github.com/OCA/account-fiscal-rule 12.0
